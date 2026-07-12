@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+faster-whisper
+pyannote.audio
+sounddevice
+sqlalchemy
+sentence-transformers
+httpx
+pydantic-settings
+python-dotenv
+ollama
+numpy
+scipy
+python-multipart
+aiofiles
+pytest

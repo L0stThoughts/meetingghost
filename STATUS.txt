@@ -1,0 +1,2 @@
+Frontend with no design
+backend with weird functions, possibly not functional
